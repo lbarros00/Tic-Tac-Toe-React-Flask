@@ -2,8 +2,8 @@
 An implementation of Tic Tac Toe using minimax algorithm to determine computer's moves. This project is designed using React, Redux (frontend) and Flask/Python (backend).
 
 To create your own game and set up React-Redux-Flask, follow these instructions:
-[Setting up React & Redux](./client/README.md)
-[Setting up Flask](./server/README.md)
+* [Setting up React & Redux](./client/README.md)
+* [Setting up Flask](./server/README.md)
 
 ## Build and run instructions
 #### Frontend
