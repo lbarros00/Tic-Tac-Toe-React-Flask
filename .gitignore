@@ -1,0 +1,8 @@
+# Dependency directory
+node_modules/
+
+# Local files and directories
+.idea/
+
+# Virtual environment
+env/
