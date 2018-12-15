@@ -50,3 +50,5 @@ if __name__ == '__main__':
 [//]: References (http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 [flask-restful docs]: <https://flask-restful.readthedocs.io/en/0.3.5/quickstart.html>
 [flask-CORS]: <https://flask-cors.readthedocs.io/en/latest/>
+[Buuntu/TicTacToe-Flask, This code has great structure, it was a great refresher for Flask]: <https://github.com/Buuntu/TicTacToe-Flask>
+[Cledersonbc/tic-tac-toe-minimax, This developer's original code uses a 2D Array, I refactored his code to use a list]: <https://github.com/Cledersonbc/tic-tac-toe-minimax>

@@ -5,7 +5,7 @@ import {
     playGetBoard,
 } from "../actions/game";
 
-class App extends Component {
+class Game extends Component {
     constructor(props) {
         super(props);
         this.handleClick = this.handleClick.bind(this);
@@ -50,4 +50,4 @@ const mapStateToProps = state => ({
     computer: state.gameReducer.computer,
 });
 
-export default connect(mapStateToProps, bindAction)(App);
+export default connect(mapStateToProps, bindAction)(Game);

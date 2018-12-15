@@ -223,5 +223,7 @@ ReactDOM.render(
 [//]: References (http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 [full-stack web application]: <https://codeburst.io/creating-a-full-stack-web-application-with-python-npm-webpack-and-react-8925800503d9>
 [package.json docs]: <https://docs.npmjs.com/files/package.json>
+[tic-tac-toe React tutorial]: <https://reactjs.org/tutorial/tutorial.html>
 [--save or --save-dev]: <https://imcodebased.com/npm-save-or-save-dev-which-one-to-use/>
 [setting up Redux]: <https://www.youtube.com/watch?v=93p3LxR9xfM>
+[helped to retrieve Flask jsonified response]: <https://developer.mozilla.org/en-US/docs/Web/API/Body/json>

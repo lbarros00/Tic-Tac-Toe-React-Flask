@@ -2,7 +2,9 @@
 node_modules/
 
 # Local files and directories
-.idea/
+client/dist/
+client/.idea/
+server/.idea/
 
 # Virtual environment
-env/
+server/env/
